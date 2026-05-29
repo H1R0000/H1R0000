@@ -35,6 +35,4 @@
 
 ### GitHub Stats:
 [![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com/?user=h1r0000&theme=dark#gh-dark-mode-only)](https://github.com/h1r0000)
-[![GitHub Streak Light](https://github-readme-streak-stats.herokuapp.com/?user=h1r0000#gh-light-mode-only)](https://github.com/h1r0000)
-
 </div>
