@@ -1,38 +1,78 @@
 <div align="center">
 
-# Hi 👋, I'm Hero Park
+# Hi, I'm Hero Park 👋
 
-### Web & App Developer | AI-Driven Projects
+### AI-Driven Developer · Web & Mobile · UI/UX
 
-📫 How to reach me: **[parkhero786@gmail.com](mailto:parkhero786@gmail.com)**
+Turning ideas into useful applications and thoughtful interfaces.
 
-### Connect with me:
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="36" />](https://github.com/h1r0000)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="36" />](https://linkedin.com/in/hero-park)
-<br><br>
+[Email](mailto:parkhero786@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hero-park) · [GitHub](https://github.com/H1R0000)
 
-### Languages and Tools:
-<br>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio" height="32" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="32" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" height="32" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" height="32" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" height="32" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="32" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="32" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" height="32" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="32" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="32" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" height="32" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" height="32" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="32" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="32" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" height="32" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" height="32" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="32" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="32" />
-<br><br>
+</div>
 
-### GitHub Stats:
-[![GitHub Streak Dark](https://github-readme-streak-stats.herokuapp.com/?user=h1r0000&theme=dark#gh-dark-mode-only)](https://github.com/h1r0000)
+---
+
+## About me
+
+I'm a Computer Science student at **Holy Angel University**, based in **Angeles City, Philippines**. I build web and mobile projects, design user experiences, and explore how AI can support the development process.
+
+- **Building:** responsive applications and interfaces that solve practical problems.
+- **Exploring:** AI-driven development, machine learning, and better ways to turn ideas into working software.
+- **Growing:** my skills in application development, database design, and UI/UX.
+- **Open to:** project collaborations and conversations about things worth building.
+
+## Selected work
+
+| Project | What it's about | My focus |
+| --- | --- | --- |
+| **District Wheels** | A responsive digital storefront for custom 1/64 scale diecast cars. | Web development with HTML, CSS, and JavaScript |
+| **InternHub** | A platform concept connecting students with internship opportunities. | UI/UX design, wireframing, and Figma |
+| **Personal Portfolio** | A home for my projects, skills, and design work. | React, Tailwind CSS, and responsive design |
+
+## Languages & tools
+
+Tools I use across projects, coursework, and continued learning.
+
+### Web development
+
+![HTML5](https://img.shields.io/badge/HTML5-202020?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-202020?style=flat&logo=css&logoColor=663399)
+![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-202020?style=flat&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-202020?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-202020?style=flat&logo=tailwindcss&logoColor=06B6D4)
+![Node.js](https://img.shields.io/badge/Node.js-202020?style=flat&logo=nodedotjs&logoColor=5FA04E)
+![PHP](https://img.shields.io/badge/PHP-202020?style=flat&logo=php&logoColor=AEB2D5)
+
+### Mobile development
+
+![Flutter](https://img.shields.io/badge/Flutter-202020?style=flat&logo=flutter&logoColor=54C5F8)
+![Dart](https://img.shields.io/badge/Dart-202020?style=flat&logo=dart&logoColor=54C5F8)
+![Java](https://img.shields.io/badge/Java-202020?style=flat&logo=openjdk&logoColor=FFFFFF)
+![Android Studio](https://img.shields.io/badge/Android_Studio-202020?style=flat&logo=androidstudio&logoColor=3DDC84)
+
+### Data & AI
+
+![Python](https://img.shields.io/badge/Python-202020?style=flat&logo=python&logoColor=FFD43B)
+![PyTorch](https://img.shields.io/badge/PyTorch-202020?style=flat&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-202020?style=flat&logo=tensorflow&logoColor=FF6F00)
+![MySQL](https://img.shields.io/badge/MySQL-202020?style=flat&logo=mysql&logoColor=5B9BD5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-202020?style=flat&logo=postgresql&logoColor=6CA2CE)
+![Supabase](https://img.shields.io/badge/Supabase-202020?style=flat&logo=supabase&logoColor=3ECF8E)
+
+### Design & workflow
+
+![Figma](https://img.shields.io/badge/Figma-202020?style=flat&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-202020?style=flat&logo=git&logoColor=F05032)
+
+---
+
+<div align="center">
+
+### Have an idea? Let's build something useful.
+
+Open to learning together, sharing ideas, and collaborating on web and mobile projects.
+
+**[parkhero786@gmail.com](mailto:parkhero786@gmail.com)**
+
 </div>
