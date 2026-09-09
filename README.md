@@ -23,23 +23,6 @@ I'm a Computer Science student at **Holy Angel University**, based in **Angeles 
 
 ## Selected work
 
-### CNN Facial Recognition & GPS Attendance App
-**Thesis project · August 2026**
-
-A dual-factor biometric attendance system combining CNN-based facial recognition and GPS authentication for logistics applications.
-
-**My contributions**
-- Conducted comprehensive functional testing and tracked bugs across the system.
-- Coordinated beta testing to verify features and evaluate real-world performance.
-- Co-authored the thesis, leading the literature review, system methodology, and technical documentation of test results.
-
-<!-- Add thesis screenshots here when ready. Upload images to this repository, then replace this comment with Markdown image links, for example:
-![Attendance app interface](images/thesis-attendance.png)
-Use the actual filename and describe what each screenshot shows.
--->
-
-### Other projects
-
 | Project | What it's about | My focus |
 | --- | --- | --- |
 | **District Wheels** | A responsive digital storefront for custom 1/64 scale diecast cars. | Web development with HTML, CSS, and JavaScript |
