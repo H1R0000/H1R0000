@@ -21,14 +21,6 @@ I'm a Computer Science student at **Holy Angel University**, based in **Angeles 
 - **Growing:** my skills in application development, database design, and UI/UX.
 - **Open to:** project collaborations and conversations about things worth building.
 
-## Selected work
-
-| Project | What it's about | My focus |
-| --- | --- | --- |
-| **District Wheels** | A responsive digital storefront for custom 1/64 scale diecast cars. | Web development with HTML, CSS, and JavaScript |
-| **InternHub** | A platform concept connecting students with internship opportunities. | UI/UX design, wireframing, and Figma |
-| **Personal Portfolio** | A home for my projects, skills, and design work. | React, Tailwind CSS, and responsive design |
-
 ## Languages & tools
 
 Tools I use across projects, coursework, and continued learning.
