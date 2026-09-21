@@ -1,70 +1,150 @@
 <div align="center">
 
-# Hi, I'm Hero Park 👋
+# Hey, I'm Hero Park 👋
 
 ### AI-Driven Developer · Web & Mobile · UI/UX
 
-Turning ideas into useful applications and thoughtful interfaces.
+**I build useful things at the intersection of software, design, and AI.**
 
-[Email](mailto:parkhero786@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hero-park) · [GitHub](https://github.com/H1R0000)
+<p>
+  <a href="mailto:parkhero786@gmail.com">
+    <img src="https://img.shields.io/badge/Email-202020?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/hero-park">
+    <img src="https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/H1R0000">
+    <img src="https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About me
+## `> whoami`
 
-I'm a Computer Science student at **Holy Angel University**, based in **Angeles City, Philippines**. I build web and mobile projects, design user experiences, and explore how AI can support the development process.
+I'm a **Computer Science student at Holy Angel University** based in **Angeles City, Philippines**.
 
-- **Building:** responsive applications and interfaces that solve practical problems.
-- **Exploring:** AI-driven development, machine learning, and better ways to turn ideas into working software.
-- **Growing:** my skills in application development, database design, and UI/UX.
-- **Open to:** project collaborations and conversations about things worth building.
+I enjoy turning ideas into practical applications — from designing interfaces and building full-stack systems to exploring how **AI can make software development smarter and more useful.**
 
-## Languages & tools
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   🧠 AI & Machine Learning                           │
+│   🌐 Web & Application Development                   │
+│   📱 Mobile Development                              │
+│   🎨 UI/UX & Product Design                          │
+│   🗄️ Database Design                                │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
-Tools I use across projects, coursework, and continued learning.
+### Currently
 
-### Web development
+* 🔨 **Building** — responsive web & mobile applications
+* 🤖 **Exploring** — AI-driven development & machine learning
+* 🎨 **Designing** — interfaces that are simple and intuitive
+* 🗃️ **Learning** — better architecture, databases & system design
+* 🤝 **Open to** — interesting projects, collaborations & ideas
 
-![HTML5](https://img.shields.io/badge/HTML5-202020?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-202020?style=flat&logo=css&logoColor=663399)
-![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-202020?style=flat&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-202020?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-202020?style=flat&logo=tailwindcss&logoColor=06B6D4)
-![Node.js](https://img.shields.io/badge/Node.js-202020?style=flat&logo=nodedotjs&logoColor=5FA04E)
-![PHP](https://img.shields.io/badge/PHP-202020?style=flat&logo=php&logoColor=AEB2D5)
+---
 
-### Mobile development
+## `> tech_stack`
 
-![Flutter](https://img.shields.io/badge/Flutter-202020?style=flat&logo=flutter&logoColor=54C5F8)
-![Dart](https://img.shields.io/badge/Dart-202020?style=flat&logo=dart&logoColor=54C5F8)
-![Java](https://img.shields.io/badge/Java-202020?style=flat&logo=openjdk&logoColor=FFFFFF)
-![Android Studio](https://img.shields.io/badge/Android_Studio-202020?style=flat&logo=androidstudio&logoColor=3DDC84)
+### 🌐 Web
 
-### Data & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,php" alt="Web technologies">
+</p>
 
-![Python](https://img.shields.io/badge/Python-202020?style=flat&logo=python&logoColor=FFD43B)
-![PyTorch](https://img.shields.io/badge/PyTorch-202020?style=flat&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-202020?style=flat&logo=tensorflow&logoColor=FF6F00)
-![MySQL](https://img.shields.io/badge/MySQL-202020?style=flat&logo=mysql&logoColor=5B9BD5)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-202020?style=flat&logo=postgresql&logoColor=6CA2CE)
-![Supabase](https://img.shields.io/badge/Supabase-202020?style=flat&logo=supabase&logoColor=3ECF8E)
+### 📱 Mobile
 
-### Design & workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,androidstudio" alt="Mobile technologies">
+</p>
 
-![Figma](https://img.shields.io/badge/Figma-202020?style=flat&logo=figma&logoColor=F24E1E)
-![Git](https://img.shields.io/badge/Git-202020?style=flat&logo=git&logoColor=F05032)
+### 🤖 Data & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mysql,postgres,supabase" alt="Data and AI technologies">
+</p>
+
+### 🎨 Design & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github" alt="Design and workflow technologies">
+</p>
+
+---
+
+## `> things_i_care_about`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧩 Practical Software
+
+Building applications that solve **real problems**, rather than adding complexity for its own sake.
+
+</td>
+<td width="50%">
+
+### 🎨 Thoughtful Design
+
+Creating interfaces that feel **clear, intuitive, and intentional**.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Useful AI
+
+Exploring AI as a **tool for building better software**, not just a feature to add.
+
+</td>
+<td width="50%">
+
+### 📚 Continuous Learning
+
+Always experimenting with new technologies, architectures, and ways of working.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> currently_learning`
+
+```text
+AI-assisted development
+Machine Learning
+Application Architecture
+Database Design
+UI/UX
+Full-Stack Development
+```
 
 ---
 
 <div align="center">
 
-### Have an idea? Let's build something useful.
+## Let's build something useful.
 
-Open to learning together, sharing ideas, and collaborating on web and mobile projects.
+Whether it's a web application, mobile experience, AI-powered tool,
+or just an interesting idea — I'm always interested in learning and building.
 
-**[parkhero786@gmail.com](mailto:parkhero786@gmail.com)**
+<br>
+
+<a href="mailto:parkhero786@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_Talk-202020?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Let's talk">
+</a>
+
+<br><br>
+
+<sub>Designed & built by Hero Park</sub>
 
 </div>
