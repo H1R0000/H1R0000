@@ -1,52 +1,89 @@
 <div align="center">
 
-# Hero Park
-**Full-Stack & Mobile Developer · UI/UX · Applied AI**
+  <h1>Hero Park</h1>
 
-*Designing intuitive interfaces and building practical web, mobile, and AI software.*
+  <!-- Terminal-Style Animated Typing SVG (Monochrome Silver) -->
+  <a href="https://github.com/H1R0000">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=E4E4E7&center=true&vCenter=true&width=550&lines=AI-Driven+Developer+%26+CS+Student;Full-Stack+Web+%26+Cross-Platform+Mobile;Building+Practical+Software+%26+Clean+UI%2FUX" alt="Typing SVG" />
+  </a>
 
-[![Email](https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:parkhero786@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hero-park)
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/H1R0000)
+  <p align="center">
+    <a href="mailto:parkhero786@gmail.com">
+      <img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=E4E4E7" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/hero-park" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=E4E4E7" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/H1R0000" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=E4E4E7" alt="GitHub" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-### `01` · About
+### `//` Overview
 
-CS student at **Holy Angel University** (Angeles City, PH). I build responsive web and mobile applications, design clean user experiences, and integrate machine learning into real-world workflows—from e-commerce logistics to industrial defect detection.
+I'm a Computer Science student at **Holy Angel University** focused on turning complex problems into fast, intuitive software. My work sits at the intersection of full-stack engineering, cross-platform mobile development, and applied AI—taking ideas from early Figma wireframes all the way to database architecture and deployment.
 
-- **Current Focus** — Full-stack web & mobile apps, computer vision models, and offline-first architectures.
-- **Credentials** — **CompTIA IT Fundamentals (ITF+)** certified & **Cisco Networking Academy** alum.
-- **Collaboration** — Open to software engineering internships, freelance builds, and collaborative projects.
+Whether I'm training computer vision models for defect detection, engineering offline-first mobile tools, or building dispatch directories for retail logistics, I focus on shipping systems that are clean, reliable, and genuinely useful.
+
+- **Location:** Angeles City, Pampanga, Philippines
+- **Certifications:** CompTIA IT Fundamentals (ITF+) · Cisco Networking Academy
+- **Reach out:** **[parkhero786@gmail.com](mailto:parkhero786@gmail.com)**
 
 ---
 
-### `02` · Featured Projects
+### `//` Selected Works
 
-| Project | Overview | Focus & Stack |
+| Repository | Architecture & Purpose | Core Stack |
 | :--- | :--- | :--- |
-| **[District Wheels Dispatch Directory](https://github.com/H1R0000/District-Wheels-Dispatch-Directory)** | Centralized dispatch directory, order tracking, and inventory management system tailored for die-cast retail and courier fulfillment. | `Web App` `Full-Stack` `UI/UX` |
-| **[AI-Powered Metal Screw Defect Detection](https://github.com/H1R0000/AI-Powered-Metal-Screw-Defect-Detection)** | Automated visual inspection system using deep learning and computer vision to classify and detect manufacturing defects in metal screws. | `Python` `PyTorch` `TensorFlow` `Computer Vision` |
-| **[Offline Trucking Attendance System](https://github.com/EJhayGit/offline-trucking-attendance-thesis)** | Offline-first attendance and fleet logging platform built for trucking operations in low-connectivity environments *(Thesis Project)*. | `Mobile / Web` `Offline-First` `Database` |
+| **[District Wheels Dispatch Directory](https://github.com/H1R0000/District-Wheels-Dispatch-Directory)** | Centralized dispatch directory, order tracking, and fulfillment management tailored for retail logistics. | `Web` `Full-Stack` `UI/UX` |
+| **[AI Metal Screw Defect Detection](https://github.com/H1R0000/AI-Powered-Metal-Screw-Defect-Detection)** | Automated visual inspection pipeline using deep learning to detect and classify manufacturing defects. | `Python` `PyTorch` `TensorFlow` |
+| **[Offline Trucking Attendance](https://github.com/EJhayGit/offline-trucking-attendance-thesis)** | Offline-first attendance and fleet logging platform engineered for low-connectivity field operations. | `Mobile` `Offline-First` `Database` |
 
 ---
 
-### `03` · Tech Stack
+### `//` Engineering Toolkit
 
-| Layer | Tools & Technologies |
-| :--- | :--- |
-| **Web & Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![PHP](https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=AEB2D5) ![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-18181B?style=flat-square&logo=flutter&logoColor=54C5F8) ![Dart](https://img.shields.io/badge/Dart-18181B?style=flat-square&logo=dart&logoColor=54C5F8) ![Java](https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=FFFFFF) ![Android Studio](https://img.shields.io/badge/Android_Studio-18181B?style=flat-square&logo=androidstudio&logoColor=3DDC84) |
-| **Data, Backend & AI** | ![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=FFD43B) ![PyTorch](https://img.shields.io/badge/PyTorch-18181B?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](https://img.shields.io/badge/TensorFlow-18181B?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![Supabase](https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3ECF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=6CA2CE) ![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=5B9BD5) |
-| **Design & Ops** | ![Figma](https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=F24E1E) ![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032) |
+**Web & Interface Engineering**  
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=E4E4E7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=E4E4E7)
+![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=E4E4E7)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=E4E4E7)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=E4E4E7)
+![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=flat-square&logo=php&logoColor=E4E4E7)
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=E4E4E7)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=E4E4E7)
+
+**Mobile & Cross-Platform**  
+![Flutter](https://img.shields.io/badge/Flutter-0A0A0A?style=flat-square&logo=flutter&logoColor=E4E4E7)
+![Dart](https://img.shields.io/badge/Dart-0A0A0A?style=flat-square&logo=dart&logoColor=E4E4E7)
+![Java](https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=E4E4E7)
+![Android Studio](https://img.shields.io/badge/Android_Studio-0A0A0A?style=flat-square&logo=androidstudio&logoColor=E4E4E7)
+
+**AI, Data & Backend Systems**  
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=E4E4E7)
+![PyTorch](https://img.shields.io/badge/PyTorch-0A0A0A?style=flat-square&logo=pytorch&logoColor=E4E4E7)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0A0A0A?style=flat-square&logo=tensorflow&logoColor=E4E4E7)
+![Supabase](https://img.shields.io/badge/Supabase-0A0A0A?style=flat-square&logo=supabase&logoColor=E4E4E7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=E4E4E7)
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=E4E4E7)
+
+**Design & Version Control**  
+![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=flat-square&logo=figma&logoColor=E4E4E7)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=E4E4E7)
 
 ---
+
+### `//` Telemetry & Activity
 
 <div align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=H1R0000&show_icons=true&title_color=E4E4E7&text_color=A1A1AA&icon_color=E4E4E7&bg_color=0A0A0A&hide_border=true" alt="Hero's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=H1R0000&layout=compact&title_color=E4E4E7&text_color=A1A1AA&bg_color=0A0A0A&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
+</div>
 
-**Have an idea worth building? Let's talk.**  
-[parkhero786@gmail.com](mailto:parkhero786@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hero-park)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=H1R0000&bg_color=0A0A0A&color=A1A1AA&line=E4E4E7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
