@@ -11,15 +11,16 @@ BS Computer Science · Holy Angel University · Philippines
 
 <br>
 
-<a href="https://hdpark.dev/">
-  <img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-D1D5DB?style=for-the-badge" alt="Visit my portfolio">
-</a>
-<a href="mailto:parkhero786@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logo=gmail&logoColor=D1D5DB" alt="Email me">
-</a>
-<a href="https://www.linkedin.com/in/hero-park">
-  <img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge" alt="Connect on LinkedIn">
-</a>
+<p align="center">
+  <a href="mailto:parkhero786@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logo=gmail&logoColor=D1D5DB" alt="Email me" width="110" height="28">
+  </a>
+  <a href="https://hdpark.dev/">
+    <img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-D1D5DB?style=for-the-badge" alt="Visit my portfolio" height="28">
+  </a>
+  <a href="https://www.linkedin.com/in/hero-park">
+    <img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge" alt="Connect on LinkedIn" width="110" height="28">
+  </a>
 
 </div>
 
