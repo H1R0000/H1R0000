@@ -18,9 +18,9 @@ BS Computer Science · Holy Angel University · Philippines
   <a href="https://hdpark.dev/">
     <img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-D1D5DB?style=for-the-badge" alt="Visit my portfolio" height="28">
   </a>
-  <a href="https://www.linkedin.com/in/hero-park">
-    <img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge" alt="Connect on LinkedIn" width="110" height="28">
-  </a>
+ <a href="https://www.linkedin.com/in/hero-park">
+  <img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iMiIgZmlsbD0iI0QxRDVEQiIvPjxwYXRoIGZpbGw9IiMxODE4MUIiIGQ9Ik01IDloM3YxMEg1ek02LjUgNGExLjUgMS41IDAgMSAwIDAgMyAxLjUgMS41IDAgMCAwIDAtM00xMCA5aDN2MS40Yy43LTEgMS41LTEuNyAzLjEtMS43IDMgMCAzLjkgMS45IDMuOSA0LjdWMTloLTN2LTVjMC0xLjUtLjMtMi41LTEuOC0yLjUtMS42IDAtMi4yIDEuMS0yLjIgMi44VjE5aC0zeiIvPjwvc3ZnPg%3D%3D" alt="Connect on LinkedIn" width="110" height="28">
+</a>
 
 </div>
 
