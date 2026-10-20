@@ -18,9 +18,10 @@ BS Computer Science · Holy Angel University · Philippines
   <a href="https://hdpark.dev/">
     <img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-D1D5DB?style=for-the-badge" alt="Visit my portfolio" height="28">
   </a>
- <a href="https://www.linkedin.com/in/hero-park">
-  <img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iMiIgZmlsbD0iI0QxRDVEQiIvPjxwYXRoIGZpbGw9IiMxODE4MUIiIGQ9Ik01IDloM3YxMEg1ek02LjUgNGExLjUgMS41IDAgMSAwIDAgMyAxLjUgMS41IDAgMCAwIDAtM00xMCA5aDN2MS40Yy43LTEgMS41LTEuNyAzLjEtMS43IDMgMCAzLjkgMS45IDMuOSA0LjdWMTloLTN2LTVjMC0xLjUtLjMtMi41LTEuOC0yLjUtMS42IDAtMi4yIDEuMS0yLjIgMi44VjE5aC0zeiIvPjwvc3ZnPg%3D%3D" alt="Connect on LinkedIn" width="110" height="28">
-</a>
+  <a href="https://www.linkedin.com/in/hero-park">
+    <img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iMiIgZmlsbD0iI0QxRDVEQiIvPjxwYXRoIGZpbGw9IiMxODE4MUIiIGQ9Ik01IDloM3YxMEg1ek02LjUgNGExLjUgMS41IDAgMSAwIDAgMyAxLjUgMS41IDAgMCAwIDAtM00xMCA5aDN2MS40Yy43LTEgMS41LTEuNyAzLjEtMS43IDMgMCAzLjkgMS45IDMuOSA0LjdWMTloLTN2LTVjMC0xLjUtLjMtMi41LTEuOC0yLjUtMS42IDAtMi4yIDEuMS0yLjIgMi44VjE5aC0zeiIvPjwvc3ZnPg%3D%3D" alt="Connect on LinkedIn" width="110" height="28">
+  </a>
+</p>
 
 </div>
 
@@ -44,6 +45,8 @@ I build applications around problems I encounter firsthand—from managing order
 ![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=D1D5DB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=D1D5DB)
 ![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=D1D5DB)
+![React Router](https://img.shields.io/badge/React_Router-18181B?style=flat-square&logo=reactrouter&logoColor=D1D5DB)
+![Vite](https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=D1D5DB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=D1D5DB)
 ![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=D1D5DB)
 ![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css&logoColor=D1D5DB)
@@ -54,32 +57,54 @@ I build applications around problems I encounter firsthand—from managing order
 ![Express](https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=D1D5DB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-18181B?style=flat-square&logo=fastapi&logoColor=D1D5DB)
 ![PHP](https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=D1D5DB)
+![SQL](https://img.shields.io/badge/SQL-18181B?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=D1D5DB)
 ![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=D1D5DB)
 ![Supabase](https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=D1D5DB)
 
-**Mobile & applied AI**
+**Mobile development**
 
 ![Flutter](https://img.shields.io/badge/Flutter-18181B?style=flat-square&logo=flutter&logoColor=D1D5DB)
 ![Dart](https://img.shields.io/badge/Dart-18181B?style=flat-square&logo=dart&logoColor=D1D5DB)
+![Riverpod](https://img.shields.io/badge/Riverpod-18181B?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=D1D5DB)
+![Android Studio](https://img.shields.io/badge/Android_Studio-18181B?style=flat-square&logo=androidstudio&logoColor=D1D5DB)
+
+**Applied AI & data**
+
 ![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=D1D5DB)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-18181B?style=flat-square&logo=tensorflow&logoColor=D1D5DB)
 ![Keras](https://img.shields.io/badge/Keras-18181B?style=flat-square&logo=keras&logoColor=D1D5DB)
 ![PyTorch](https://img.shields.io/badge/PyTorch-18181B?style=flat-square&logo=pytorch&logoColor=D1D5DB)
+![NumPy](https://img.shields.io/badge/NumPy-18181B?style=flat-square&logo=numpy&logoColor=D1D5DB)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-18181B?style=flat-square&logo=scikitlearn&logoColor=D1D5DB)
+![Pillow](https://img.shields.io/badge/Pillow-18181B?style=flat-square)
+![Groq API](https://img.shields.io/badge/Groq_API-18181B?style=flat-square)
 
 **Deployment & infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=D1D5DB)
 ![Vercel](https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=D1D5DB)
 ![Render](https://img.shields.io/badge/Render-18181B?style=flat-square&logo=render&logoColor=D1D5DB)
+![Bash](https://img.shields.io/badge/Bash-18181B?style=flat-square&logo=gnubash&logoColor=D1D5DB)
 
 **Design & workflow**
 
 ![Figma](https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=D1D5DB)
 ![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=D1D5DB)
 ![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=D1D5DB)
-![Android Studio](https://img.shields.io/badge/Android_Studio-18181B?style=flat-square&logo=androidstudio&logoColor=D1D5DB)
+![ESLint](https://img.shields.io/badge/ESLint-18181B?style=flat-square&logo=eslint&logoColor=D1D5DB)
+
+**AI development tools & practices**
+
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-18181B?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-18181B?style=flat-square&logo=claude&logoColor=D1D5DB)
+![Blackbox AI](https://img.shields.io/badge/Blackbox_AI-18181B?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-18181B?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-18181B?style=flat-square&logo=googlegemini&logoColor=D1D5DB)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-18181B?style=flat-square&logo=githubcopilot&logoColor=D1D5DB)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-18181B?style=flat-square)
+![AI Orchestration](https://img.shields.io/badge/AI_Orchestration-18181B?style=flat-square)
 
 ## 03 — Beyond the code
 
@@ -91,6 +116,7 @@ Building tools for **District Wheels**, my custom diecast business, gives me a d
 <br>
 
 - **[District Wheels Storefront](https://github.com/H1R0000/District-Wheels-Website)** — A responsive showcase for custom 1/64 scale diecast cars.
+- **[District Wheels Application](https://github.com/H1R0000/District-Wheels-Application)** — A Flutter marketplace app using Supabase and Riverpod.
 - **[Portfolio V1](https://github.com/H1R0000/Portfolio-V1)** — An earlier React portfolio with project galleries and certificates.
 - **Certifications & training** — CompTIA IT Fundamentals (ITF+) · Cisco Networking Academy.
 
