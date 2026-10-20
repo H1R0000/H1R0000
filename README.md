@@ -12,13 +12,13 @@ BS Computer Science · Holy Angel University · Philippines
 <br>
 
 <a href="https://hdpark.dev/">
-  <img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-7DD3FC?style=for-the-badge&logoColor=0F172A" alt="Visit my portfolio">
+  <img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-D1D5DB?style=for-the-badge" alt="Visit my portfolio">
 </a>
 <a href="mailto:parkhero786@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=7DD3FC" alt="Email me">
+  <img src="https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logo=gmail&logoColor=D1D5DB" alt="Email me">
 </a>
 <a href="https://www.linkedin.com/in/hero-park">
-  <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge" alt="Connect on LinkedIn">
+  <img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge" alt="Connect on LinkedIn">
 </a>
 
 </div>
@@ -40,39 +40,45 @@ I build applications around problems I encounter firsthand—from managing order
 
 **Web & interfaces**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=7DD3FC)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=7DD3FC)
-![React](https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=7DD3FC)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=7DD3FC)
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=7DD3FC)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css&logoColor=7DD3FC)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=D1D5DB)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=D1D5DB)
+![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=D1D5DB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=D1D5DB)
+![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=D1D5DB)
+![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css&logoColor=D1D5DB)
 
 **Backend & databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=7DD3FC)
-![Express](https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=7DD3FC)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=7DD3FC)
-![PHP](https://img.shields.io/badge/PHP-0F172A?style=flat-square&logo=php&logoColor=7DD3FC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=7DD3FC)
-![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=7DD3FC)
-![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat-square&logo=supabase&logoColor=7DD3FC)
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=D1D5DB)
+![Express](https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=D1D5DB)
+![FastAPI](https://img.shields.io/badge/FastAPI-18181B?style=flat-square&logo=fastapi&logoColor=D1D5DB)
+![PHP](https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=D1D5DB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=D1D5DB)
+![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=D1D5DB)
+![Supabase](https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=D1D5DB)
 
 **Mobile & applied AI**
 
-![Flutter](https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=7DD3FC)
-![Dart](https://img.shields.io/badge/Dart-0F172A?style=flat-square&logo=dart&logoColor=7DD3FC)
-![Java](https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=7DD3FC)
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=7DD3FC)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0F172A?style=flat-square&logo=tensorflow&logoColor=7DD3FC)
-![Keras](https://img.shields.io/badge/Keras-0F172A?style=flat-square&logo=keras&logoColor=7DD3FC)
-![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=7DD3FC)
+![Flutter](https://img.shields.io/badge/Flutter-18181B?style=flat-square&logo=flutter&logoColor=D1D5DB)
+![Dart](https://img.shields.io/badge/Dart-18181B?style=flat-square&logo=dart&logoColor=D1D5DB)
+![Java](https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=D1D5DB)
+![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=D1D5DB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-18181B?style=flat-square&logo=tensorflow&logoColor=D1D5DB)
+![Keras](https://img.shields.io/badge/Keras-18181B?style=flat-square&logo=keras&logoColor=D1D5DB)
+![PyTorch](https://img.shields.io/badge/PyTorch-18181B?style=flat-square&logo=pytorch&logoColor=D1D5DB)
+
+**Deployment & infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=D1D5DB)
+![Vercel](https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=D1D5DB)
+![Render](https://img.shields.io/badge/Render-18181B?style=flat-square&logo=render&logoColor=D1D5DB)
 
 **Design & workflow**
 
-![Figma](https://img.shields.io/badge/Figma-0F172A?style=flat-square&logo=figma&logoColor=7DD3FC)
-![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=7DD3FC)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=7DD3FC)
-![Android Studio](https://img.shields.io/badge/Android_Studio-0F172A?style=flat-square&logo=androidstudio&logoColor=7DD3FC)
+![Figma](https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=D1D5DB)
+![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=D1D5DB)
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=D1D5DB)
+![Android Studio](https://img.shields.io/badge/Android_Studio-18181B?style=flat-square&logo=androidstudio&logoColor=D1D5DB)
 
 ## 03 — Beyond the code
 
